@@ -1,0 +1,17 @@
+:root {
+	--headings: rgba(41, 17, 109, 1);
+	--para-color: rgba(110, 110, 110, 1);
+	--primary: rgba(252, 136, 29, 1);
+	--h5-font-family: "DM Sans", Helvetica;
+	--h5-font-weight: 700;
+	--h5-font-size: 18px;
+	--h5-letter-spacing: -0.5579999828338623px;
+	--h5-line-height: normal;
+	--h5-font-style: normal;
+	--body-medium-font-family: "Inter", Helvetica;
+	--body-medium-font-weight: 400;
+	--body-medium-font-size: 16px;
+	--body-medium-letter-spacing: -0.16px;
+	--body-medium-line-height: 23px;
+	--body-medium-font-style: normal;
+}
